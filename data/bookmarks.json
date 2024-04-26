@@ -67,7 +67,12 @@
                "name":"Paramount+",
                "url":"https://www.paramountplus.com/",
                "image":"https://play-lh.googleusercontent.com/rdzfnSN_CJ0930nHwaZbD8my6X_s8xAFORVg6gvdUTiNz5qgYqObKEVIT8mOzapaUB4T"
-            }         
+             },
+             {
+               "name":"DirecTV",
+               "url":"https://www.directv.com/guide/?redirectToOv=true",
+               "image":"https://logos-world.net/wp-content/uploads/2021/02/DirecTV-Emblem.png"
+             }         
           ]
        },
        {
