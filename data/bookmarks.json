@@ -1,21 +1,41 @@
 {
     "categories":[
-          {
-            "category": "Social",
-            "bookmarks": [
-              {
-                "name": "Reddit",
-                "url": "https://reddit.com",
-                "image": "https://as1.ftcdn.net/v2/jpg/03/16/75/24/1000_F_316752482_SmCu3yMoMV7rMensP4IWCIx3FRrjNKvg.jpg"
-              }            
-            ]
-        } ,                    
+      {
+        "category":"Driving",
+        "bookmarks":[
+           {
+                "name":"Google Maps",
+                "url":"https://maps.google.com/",
+                "image":"https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA"
+             },
+             {
+                "name":"Waze",
+                "url":"https://waze.com/livemap",
+                "image":"https://play-lh.googleusercontent.com/r7XL36PVNtnidqy6ikRiW1AHEIsjhePrZ8W5M4cNTQy5ViF3-lIDY47hpvxc84kJ7lw"
+             },
+             {
+                "name":"A Better Routeplanner",
+                "url":"https://new.abetterrouteplanner.com",
+                "image":"https://play-lh.googleusercontent.com/kRliolr4iRN54eiZjWHa_syBXyKNEBljXsxGs2l8xJ9G39Y-G4J2o8aH8SoVL7QWoOM"
+             },
+             {
+                "name":"Plugshare",
+                "url":"https://www.plugshare.com/",
+                "image":"https://play-lh.googleusercontent.com/p4vn5ZcGRPDVn2k93muRz-SFIMV55mZMZqVi6GB7TzZPufHJeSTloSXUrzjf_oak1w"
+             },
+             {
+                "name":"Chargepoint",
+                "url":"https://driver.chargepoint.com/",
+                "image":"https://play-lh.googleusercontent.com/VhCZY-vUehs1lQquDm1Bqi7GoYXfRH-oONNyFg4k8bceWx6EMjSj-jJgDHxaSVeOcH6Y"
+             }
+          ]
+       },                   
        {
           "category":"Streaming",
           "bookmarks":[
              {
                 "name":"Amazon Music",
-                "url":"https://www.amazon.com/music/unlimited/",
+                "url":"https://music.amazon.com/my/library",
                 "image":"https://m.media-amazon.com/images/I/61IBtPaYPRL.png"
              },
              {
@@ -96,6 +116,11 @@
          "category":"News",
          "bookmarks":[
             {
+               "name": "Reddit",
+               "url": "https://reddit.com",
+               "image": "https://as1.ftcdn.net/v2/jpg/03/16/75/24/1000_F_316752482_SmCu3yMoMV7rMensP4IWCIx3FRrjNKvg.jpg"
+            },
+            {
                "name":"CNN",
                "url":"https://www.cnn.com",
                "image":"https://play-lh.googleusercontent.com/375NW5yL8owK_hW9igW9sh-YJbda9ZcygpDXuVvK_R7l-yJp-fuhb4qvUw_FE4XW4ms"
@@ -116,7 +141,7 @@
                "image":"https://www.fineprintart.com/images/blog/amazon-logo/amazon_logo_history_5.jpg"
             }
             ]
-         },      
+         },    
          {
           "category":"Personal Media",
           "bookmarks":[
@@ -172,31 +197,11 @@
                "border":"1px solid rgba(255, 255, 255, .25)"
            }            
         ]
-     },
-     {
-        "category":"Utility",
+       },
+       {
+        "category":"Utilities",
         "bookmarks":[
            {
-                "name":"Google Maps",
-                "url":"https://maps.google.com/",
-                "image":"https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA"
-             },
-             {
-                "name":"Waze",
-                "url":"https://waze.com/livemap",
-                "image":"https://play-lh.googleusercontent.com/r7XL36PVNtnidqy6ikRiW1AHEIsjhePrZ8W5M4cNTQy5ViF3-lIDY47hpvxc84kJ7lw"
-             },
-             {
-                "name":"A Better Routeplanner",
-                "url":"https://new.abetterrouteplanner.com",
-                "image":"https://play-lh.googleusercontent.com/kRliolr4iRN54eiZjWHa_syBXyKNEBljXsxGs2l8xJ9G39Y-G4J2o8aH8SoVL7QWoOM"
-             },
-             {
-                "name":"Plugshare",
-                "url":"https://www.plugshare.com/",
-                "image":"https://play-lh.googleusercontent.com/p4vn5ZcGRPDVn2k93muRz-SFIMV55mZMZqVi6GB7TzZPufHJeSTloSXUrzjf_oak1w"
-             },
-             {
                 "name":"Tesla Account",
                 "url":"https://tesla.com/teslaaccount",
                 "image":"https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Logomark-White-Logo.wine.svg",
